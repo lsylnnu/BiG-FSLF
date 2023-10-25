@@ -8,7 +8,8 @@ X. Wang, S. Li, X. Zhao, K. Zhao, "BiG-FSLF: A Cross Heterogeneous Domain Few-Sh
 
 If you encounter any bugs while using this code, please do not hesitate to contact us.
 
-(If you want to use your own dataset, please note that the label information of changed class and unchanged class in the ground-truth data of the source domain and target domain should be consistent.)
+First, you need to run the script MSI157_matpickle.py to generate preprocessed source domain data.
+Furthermore, if you want to use your own dataset, please note that the label information of changed class and unchanged class in the ground-truth data of the source domain and target domain should be consistent.
 
 You can also download the VHRI and HSI datasets used in our experiment from the link: 
 https://pan.baidu.com/s/1k5C35y_1d0Pf3fDg17fOFA
